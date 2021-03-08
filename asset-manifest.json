@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/faux_pho/static/css/main.7dee3e9e.chunk.css",
+    "main.js": "/faux_pho/static/js/main.523831b3.chunk.js",
+    "main.js.map": "/faux_pho/static/js/main.523831b3.chunk.js.map",
+    "runtime-main.js": "/faux_pho/static/js/runtime-main.f4ba50ab.js",
+    "runtime-main.js.map": "/faux_pho/static/js/runtime-main.f4ba50ab.js.map",
+    "static/js/2.792a85d0.chunk.js": "/faux_pho/static/js/2.792a85d0.chunk.js",
+    "static/js/2.792a85d0.chunk.js.map": "/faux_pho/static/js/2.792a85d0.chunk.js.map",
+    "static/js/3.171c24be.chunk.js": "/faux_pho/static/js/3.171c24be.chunk.js",
+    "static/js/3.171c24be.chunk.js.map": "/faux_pho/static/js/3.171c24be.chunk.js.map",
+    "index.html": "/faux_pho/index.html",
+    "static/css/main.7dee3e9e.chunk.css.map": "/faux_pho/static/css/main.7dee3e9e.chunk.css.map",
+    "static/js/2.792a85d0.chunk.js.LICENSE.txt": "/faux_pho/static/js/2.792a85d0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/faux_pho/static/media/Pho.c8f510b0.png",
+    "static/media/Phonom.ed5fbdb4.svg": "/faux_pho/static/media/Phonom.ed5fbdb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ba50ab.js",
+    "static/js/2.792a85d0.chunk.js",
+    "static/css/main.7dee3e9e.chunk.css",
+    "static/js/main.523831b3.chunk.js"
+  ]
+}

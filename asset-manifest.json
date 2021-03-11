@@ -1,27 +1,37 @@
 {
   "files": {
-    "main.css": "/faux_pho/static/css/main.e08a121c.chunk.css",
-    "main.js": "/faux_pho/static/js/main.8d215364.chunk.js",
-    "main.js.map": "/faux_pho/static/js/main.8d215364.chunk.js.map",
-    "runtime-main.js": "/faux_pho/static/js/runtime-main.f4ba50ab.js",
-    "runtime-main.js.map": "/faux_pho/static/js/runtime-main.f4ba50ab.js.map",
-    "static/js/2.18c147cf.chunk.js": "/faux_pho/static/js/2.18c147cf.chunk.js",
-    "static/js/2.18c147cf.chunk.js.map": "/faux_pho/static/js/2.18c147cf.chunk.js.map",
-    "static/js/3.171c24be.chunk.js": "/faux_pho/static/js/3.171c24be.chunk.js",
-    "static/js/3.171c24be.chunk.js.map": "/faux_pho/static/js/3.171c24be.chunk.js.map",
+    "main.css": "/faux_pho/static/css/main.e9e7a2a1.chunk.css",
+    "main.js": "/faux_pho/static/js/main.d8a5f765.chunk.js",
+    "main.js.map": "/faux_pho/static/js/main.d8a5f765.chunk.js.map",
+    "runtime-main.js": "/faux_pho/static/js/runtime-main.8deeaf51.js",
+    "runtime-main.js.map": "/faux_pho/static/js/runtime-main.8deeaf51.js.map",
+    "static/js/2.e87d236e.chunk.js": "/faux_pho/static/js/2.e87d236e.chunk.js",
+    "static/js/2.e87d236e.chunk.js.map": "/faux_pho/static/js/2.e87d236e.chunk.js.map",
+    "static/js/3.34e362f4.chunk.js": "/faux_pho/static/js/3.34e362f4.chunk.js",
+    "static/js/3.34e362f4.chunk.js.map": "/faux_pho/static/js/3.34e362f4.chunk.js.map",
     "index.html": "/faux_pho/index.html",
-    "static/css/main.e08a121c.chunk.css.map": "/faux_pho/static/css/main.e08a121c.chunk.css.map",
-    "static/js/2.18c147cf.chunk.js.LICENSE.txt": "/faux_pho/static/js/2.18c147cf.chunk.js.LICENSE.txt",
+    "static/css/main.e9e7a2a1.chunk.css.map": "/faux_pho/static/css/main.e9e7a2a1.chunk.css.map",
+    "static/js/2.e87d236e.chunk.js.LICENSE.txt": "/faux_pho/static/js/2.e87d236e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/faux_pho/static/media/Pho.c8f510b0.png",
     "static/media/Phonom.ed5fbdb4.svg": "/faux_pho/static/media/Phonom.ed5fbdb4.svg",
+    "static/media/bahn.1197d32b.jpg": "/faux_pho/static/media/bahn.1197d32b.jpg",
+    "static/media/bas.5ec21c9f.jpg": "/faux_pho/static/media/bas.5ec21c9f.jpg",
+    "static/media/buncha.b3771a75.jpg": "/faux_pho/static/media/buncha.b3771a75.jpg",
     "static/media/hero2.491d4a24.png": "/faux_pho/static/media/hero2.491d4a24.png",
+    "static/media/hue.8de80037.jpg": "/faux_pho/static/media/hue.8de80037.jpg",
     "static/media/minipad.3a16a715.png": "/faux_pho/static/media/minipad.3a16a715.png",
-    "static/media/phomini.0e4ae92b.png": "/faux_pho/static/media/phomini.0e4ae92b.png"
+    "static/media/padse.34df7fa8.jpg": "/faux_pho/static/media/padse.34df7fa8.jpg",
+    "static/media/pho2.55e5d502.jpg": "/faux_pho/static/media/pho2.55e5d502.jpg",
+    "static/media/phomini.0e4ae92b.png": "/faux_pho/static/media/phomini.0e4ae92b.png",
+    "static/media/pine.096890a7.jpg": "/faux_pho/static/media/pine.096890a7.jpg",
+    "static/media/pt.d14d0d96.jpg": "/faux_pho/static/media/pt.d14d0d96.jpg",
+    "static/media/red.14a5fe2a.jpg": "/faux_pho/static/media/red.14a5fe2a.jpg",
+    "static/media/xeo.960aa72b.jpg": "/faux_pho/static/media/xeo.960aa72b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4ba50ab.js",
-    "static/js/2.18c147cf.chunk.js",
-    "static/css/main.e08a121c.chunk.css",
-    "static/js/main.8d215364.chunk.js"
+    "static/js/runtime-main.8deeaf51.js",
+    "static/js/2.e87d236e.chunk.js",
+    "static/css/main.e9e7a2a1.chunk.css",
+    "static/js/main.d8a5f765.chunk.js"
   ]
 }
